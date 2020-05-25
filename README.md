@@ -1,6 +1,6 @@
 # Singleton in Unity/Singleton en Unity
 
-_This is a project to used as example, where Object Pooling pattern design is implemented_
+_This is a project to be used as example, where Object Pooling pattern design is implemented_
 
 _Este es un proyecto para ser usado como ejemplo, donde se implementa el patron de diseño Singleton_
 
@@ -22,7 +22,7 @@ _/ Creando tortugas_
 
 ![](1.gif)
 
-### Singleton Implemented/Singleton Implementado 📋
+###  Implemented Singleton/Singleton Implementado 📋
 ```csharp
  public static GameEnvironment Singleton
     {
